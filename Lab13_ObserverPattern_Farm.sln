@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab13_ObserverPattern_Farm", "Lab13_ObserverPattern_Farm\Lab13_ObserverPattern_Farm.csproj", "{9EA4B182-FE23-44BB-A1B6-910734655E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverFarmLib", "ObserverFarmLib\ObserverFarmLib.csproj", "{93067D6B-0D77-433B-980E-E2159C4C2A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA4B182-FE23-44BB-A1B6-910734655E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA4B182-FE23-44BB-A1B6-910734655E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA4B182-FE23-44BB-A1B6-910734655E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA4B182-FE23-44BB-A1B6-910734655E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93067D6B-0D77-433B-980E-E2159C4C2A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93067D6B-0D77-433B-980E-E2159C4C2A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93067D6B-0D77-433B-980E-E2159C4C2A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93067D6B-0D77-433B-980E-E2159C4C2A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FAD6B8-C351-4AE3-9FEB-CFD3B793C608}
+	EndGlobalSection
+EndGlobal
