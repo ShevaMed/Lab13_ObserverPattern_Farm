@@ -1,6 +1,0 @@
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab13_ObserverPattern_Farm\ObserverFarmLib\bin\Release\ObserverFarmLib.dll
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab13_ObserverPattern_Farm\ObserverFarmLib\bin\Release\ObserverFarmLib.pdb
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab13_ObserverPattern_Farm\ObserverFarmLib\obj\Release\ObserverFarmLib.csproj.AssemblyReference.cache
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab13_ObserverPattern_Farm\ObserverFarmLib\obj\Release\ObserverFarmLib.csproj.CoreCompileInputs.cache
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab13_ObserverPattern_Farm\ObserverFarmLib\obj\Release\ObserverFarmLib.dll
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab13_ObserverPattern_Farm\ObserverFarmLib\obj\Release\ObserverFarmLib.pdb
